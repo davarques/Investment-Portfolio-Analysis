@@ -6,7 +6,7 @@
 
 In this practical tech assignment, we are provided with a portfolio of 5 investment assets, and our goal is to apply our Python knowledge to review and assess the investment portfolio.
 
-## Available Datasets
+### Available Datasets
 
 | Dataframes              |
 |-------------------------|
@@ -14,8 +14,10 @@ In this practical tech assignment, we are provided with a portfolio of 5 investm
 | [Asset Price Data](https://drive.google.com/file/d/1EwcJlExRlA7Ym3LakOrKm6SD360d_iey/view?usp=drive_link)       |
 | [Portfolio Weights Data](https://drive.google.com/file/d/1RDrqtFPiiCfLMJPkiIK0gL5XRjsoiXO1/view?usp=drive_link) |
 
+## Tasks 
+
 - **Exercise 1: Data Loading and Price Charting**
-  - Import the three available datasets: asset price, information, and portfolio weights.
+  - Import the three available datasets: `asset_price`, `asset_information`, and `portfolio_weights`
   - Visualize the portfolio’s assets with a time series graph.
 
 - **Exercise 2: Daily Percentage Returns**
@@ -24,14 +26,8 @@ In this practical tech assignment, we are provided with a portfolio of 5 investm
   - Create a scatter plot comparing the returns of two specific assets.
 
 - **Exercise 3: Portfolio Analysis**
-  - Analyze the portfolio's weights (%) characteristics:
-    - Visualize weights in an area map chart.
-    - Calculate annual return and volatility.
-    - Group and visualize portfolio by asset type.
-
-## Additional Tasks:
-- Create an area chart of the asset weights.
-- Plot the historical cumulative returns of the portfolio.
-- Calculate the annualized return of the portfolio.
-- Determine the annualized volatility of the portfolio (using an annualization factor of 261 days).
-- Produce an area chart grouping asset weights by their categories, as detailed in the asset_information_data.csv.
+  - Create an area chart of the asset weights.
+  - Plot the historical cumulative returns of the portfolio.
+  - Calculate the annualized return of the portfolio.
+  -  Determine the annualized volatility of the portfolio (using an annualization factor of 261 days).
+  -  Produce an area chart grouping asset weights by their categories, as detailed in the `asset_information_data.csv`.

@@ -1,12 +1,12 @@
 # Investment Portfolio Analysis
 
-![Portfolio Investment Image](https://media.licdn.com/dms/image/D5612AQGZb8k1NrXFkg/article-cover_image-shrink_720_1280/0/1677728307518?e=1720051200&v=beta&t=Ye8GLxYm1eSg7rnx94Lmqgi2Q7Z916WKeUpaUQWe9jQ)
+<img src="https://media.licdn.com/dms/image/D5612AQGZb8k1NrXFkg/article-cover_image-shrink_720_1280/0/1677728307518?e=1720051200&v=beta&t=Ye8GLxYm1eSg7rnx94Lmqgi2Q7Z916WKeUpaUQWe9jQ" alt="Portfolio Investment Image" width="600">
 
-## Project Overview: 
+## Project Overview 📋
 
 In this practical tech assignment, we are provided with a portfolio of 5 investment assets, and our goal is to apply our Python knowledge to review and assess the investment portfolio.
 
-### Available Datasets
+### Available Datasets 💾
 
 | Dataframes              |
 |-------------------------|
@@ -14,7 +14,7 @@ In this practical tech assignment, we are provided with a portfolio of 5 investm
 | [Asset Price Data](https://drive.google.com/file/d/1EwcJlExRlA7Ym3LakOrKm6SD360d_iey/view?usp=drive_link)       |
 | [Portfolio Weights Data](https://drive.google.com/file/d/1RDrqtFPiiCfLMJPkiIK0gL5XRjsoiXO1/view?usp=drive_link) |
 
-## Tasks 
+## Tasks ✏️
 
 - **Exercise 1: Data Loading and Price Charting**
   - Import the three available datasets: `asset_price`, `asset_information`, and `portfolio_weights`

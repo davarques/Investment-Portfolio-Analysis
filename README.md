@@ -66,4 +66,19 @@ In this practical tech assignment, we are provided with a portfolio of 5 investm
 
 <img src="https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/597b0872-691f-42ab-9ab4-781a912420e4" width="600">
 
+## Conclusions 💡
 
+**Exercise 1:** 
+ * All 5 assets show consistent trends over time.
+ * Notably, there was a significant decline in all assets from Jan to May 2020 (likely due to the impact of COVID-19).
+
+**Exercise 2:** 
+ * Asset 2 and Asset 3 demonstrate the strongest correlation at 0.85.
+ * Conversely, the weakest correlation is observed between Asset 1 and Asset 3, registering at -0.06.
+ * A linear correlation between Asset 2 (Fixed income) and Asset 3 (Equity) is confirmed through a scatter plot analysis.
+
+**Exercise 3:** 
+ * Fixed income and Alternative asset categories exhibit similar trends over time in comparison to Equity.
+ * Despite experiencing a decline in 2020, the portfolio's cumulative return remains profitable.
+ * The portfolio boasts an annual return of 0.11 with a volatility of 0.09.
+   

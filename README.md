@@ -31,3 +31,9 @@ In this practical tech assignment, we are provided with a portfolio of 5 investm
   - Calculate the annualized return of the portfolio.
   -  Determine the annualized volatility of the portfolio (using an annualization factor of 261 days).
   -  Produce an area chart grouping asset weights by their categories, as detailed in the `asset_information_data.csv`.
+
+## Results 🎯
+
+- **Price Time Series Graph:**
+
+<img src="https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/00f77654-d0b7-4037-b1a5-ebd5b5f6d07a" width="650">

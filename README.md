@@ -80,5 +80,5 @@ In this practical tech assignment, we are provided with a portfolio of 5 investm
 **Exercise 3:** 
  * Fixed income and Alternative asset categories exhibit similar trends over time in comparison to Equity.
  * Despite experiencing a decline in 2020, the portfolio's cumulative return remains profitable.
- * The portfolio boasts an annual return of 0.11 with a volatility of 0.09.
+ * The portfolio has an annual return of 0.11 with a volatility of 0.09.
    

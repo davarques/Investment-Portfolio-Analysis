@@ -34,6 +34,36 @@ In this practical tech assignment, we are provided with a portfolio of 5 investm
 
 ## Results 🎯
 
-- **Price Time Series Graph:**
+- **1) Price Time Series Graph:** Distribution of the 5 portfolio assets across time (2019-2022).
 
-<img src="https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/00f77654-d0b7-4037-b1a5-ebd5b5f6d07a" width="650">
+<img src="https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/00f77654-d0b7-4037-b1a5-ebd5b5f6d07a" width="600">
+
+- **2.1) Correlation Matrix Heatmap** with the Asset’s daily returns. 
+
+<img src="https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/603e4875-e5a7-4434-8d2c-7e0c78c45795" width="500">
+
+- **2.2) Scatter Plot:** Comparing two specific assets: Asset 2 (Fixed Income) vs. Asset 3 (Equity)
+
+<img src="https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/e5b94bc1-0eec-49ce-9f9f-bfe09b96117d" width="600">
+
+- **3.1) Asset's Weights (%) distribution through Area Charts**
+  
+   - By Asset number:
+     
+    <img src="https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/e9ef12f6-ddce-4a73-b69e-34ea82303f49" width="400">
+
+   - By Family type:
+     
+    <img src="https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/95920d32-5fdc-40e6-a8ff-5e8ed7d52c14" width="400">
+
+- **3.2) Portfolio Analysis:** Annualized return and volatility
+  
+![Screenshot 2024-05-07 at 20 52 43](https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/c4b4bb18-fb69-4115-a9e9-241ec8570a01)
+
+![Screenshot 2024-05-07 at 20 52 54](https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/1adc2817-c702-4be3-adbc-72d95cb22064)
+
+- **3.3) Portfolio's Return:** Historical Cumulative Returns.
+
+<img src="https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/597b0872-691f-42ab-9ab4-781a912420e4" width="600">
+
+

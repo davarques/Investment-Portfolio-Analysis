@@ -58,9 +58,9 @@ In this practical tech assignment, we are provided with a portfolio of 5 investm
 
 - **3.2) Portfolio Analysis:** Annualized return and volatility
   
-![Screenshot 2024-05-07 at 20 52 43](https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/c4b4bb18-fb69-4115-a9e9-241ec8570a01)
+    ![Screenshot 2024-05-07 at 20 52 43](https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/c4b4bb18-fb69-4115-a9e9-241ec8570a01)
 
-![Screenshot 2024-05-07 at 20 52 54](https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/1adc2817-c702-4be3-adbc-72d95cb22064)
+    ![Screenshot 2024-05-07 at 20 52 54](https://github.com/davarques/Investment-Portfolio-Analysis/assets/160759223/1adc2817-c702-4be3-adbc-72d95cb22064)
 
 - **3.3) Portfolio's Return:** Historical Cumulative Returns.
 

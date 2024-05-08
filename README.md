@@ -70,7 +70,7 @@ In this practical tech assignment, we are provided with a portfolio of 5 investm
 
 **Exercise 1:** 
  * All 5 assets show consistent trends over time.
- * Notably, there was a significant decline in all assets from Jan to May 2020 (likely due to the impact of COVID-19).
+ * Notably, there was a significant decline in all assets from Jan to May 2020 (likely due to COVID-19 impact).
 
 **Exercise 2:** 
  * Asset 2 and Asset 3 demonstrate the strongest correlation at 0.85.

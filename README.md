@@ -75,7 +75,7 @@ In this practical tech assignment, we are provided with a portfolio of 5 investm
 **Exercise 2:** 
  * Asset 2 and Asset 3 demonstrate the strongest correlation at 0.85.
  * Conversely, the weakest correlation is observed between Asset 1 and Asset 3, registering at -0.06.
- * A linear correlation between Asset 2 (Fixed income) and Asset 3 (Equity) is confirmed through a scatter plot analysis.
+ * We can see an linear correlation between Asset 2 (Fixed income) and Asset 3 (Equity) through the scatter plot.
 
 **Exercise 3:** 
  * Fixed income and Alternative asset categories exhibit similar trends over time in comparison to Equity.

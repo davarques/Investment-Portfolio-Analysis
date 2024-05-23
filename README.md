@@ -1,6 +1,6 @@
 # Investment Portfolio Analysis
 
-<img src="https://media.licdn.com/dms/image/D5612AQGZb8k1NrXFkg/article-cover_image-shrink_720_1280/0/1677728307518?e=1720051200&v=beta&t=Ye8GLxYm1eSg7rnx94Lmqgi2Q7Z916WKeUpaUQWe9jQ" alt="Portfolio Investment Image" width="600">
+<img src="https://media.licdn.com/dms/image/D5612AQGZb8k1NrXFkg/article-cover_image-shrink_720_1280/0/1677728307518?e=1720051200&v=beta&t=Ye8GLxYm1eSg7rnx94Lmqgi2Q7Z916WKeUpaUQWe9jQ" alt="Portfolio Investment Image" width="800">
 
 ## Project Overview 📋
 
